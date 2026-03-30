@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.png" width="100%" />
+
 # Hey, I'm Akshat 👋
 
 **Market Research Analyst @ [Opera](https://www.opera.com) · Oslo, Norway**
