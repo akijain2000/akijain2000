@@ -79,7 +79,7 @@ I turn complex data into strategic insights — blending business analytics, AI 
 | Project | Description |
 |---------|-------------|
 | 🏢 **[G2Ocean](https://github.com/akijain2000/G2Ocean)** | Market intelligence dashboard — shipping data, fleet monitoring, competitor analysis |
-| 🤖 **[Rova](https://github.com/anubhavb11/Rova)** | AI tenant assistant for property management — system prompts, MCP tools, benchmarking |
+| 🤖 **Rova** | AI tenant assistant for property management — LLM prompts, MCP tools, benchmarking (private) |
 
 ---
 
