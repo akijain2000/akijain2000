@@ -2,9 +2,9 @@
 
 <img src="banner.png" width="100%" />
 
-# Hey, I'm Akshat 👋
+# Hey, I'm Akshat
 
-**Market Research Analyst @ [Opera](https://www.opera.com) · Oslo, Norway**
+**Market Research Analyst @ [Opera](https://www.opera.com) | Oslo, Norway**
 
 I turn complex data into strategic insights — blending business analytics, AI research, and a knack for building things that work.
 
@@ -17,11 +17,27 @@ I turn complex data into strategic insights — blending business analytics, AI 
 
 ### About Me
 
-- 🔭 Currently building AI-powered tools and conducting user research at **Opera**
-- 🎓 Business Analytics graduate from **BI Norwegian Business School**
-- 🌍 Previously worked at **Norsk Hydro** (trading models) and **Antler** (startup evaluation)
-- 🌱 Climate Reality Leader — sustainability drives everything I do
-- 🇮🇳 → 🇳🇴 From Delhi to Oslo
+- Currently building AI-powered tools and conducting user research at **Opera**
+- Business Analytics graduate from **BI Norwegian Business School**
+- Previously worked at **Norsk Hydro** (trading models) and **Antler** (startup evaluation)
+- Climate Reality Leader — sustainability drives everything I do
+- From Delhi to Oslo
+
+---
+
+### Featured: Skill Factory
+
+> **An LLM knowledge base + zero-to-hero course for authoring production-quality AI agent skills.**
+
+[![Skill Factory](https://img.shields.io/badge/Skill_Factory-Knowledge_Base_+_Course-412991?style=for-the-badge)](https://github.com/akijain2000/skill-factory)
+
+Built on Karpathy's LLM-KB pattern — 30+ wiki articles compiled from **18 repos** (700K+ GitHub stars), covering every pattern and anti-pattern for writing SKILL.md files. Includes a 10-module course, automated validator, and a meta-skill that uses the knowledge base to author better skills.
+
+**What's inside:**
+- 18 concepts, 8 research articles, 11 curated examples
+- 10-module course: from "What is a skill?" to meta-skill composition
+- Monthly auto-discovery of new repos from GitHub rankings
+- Key findings: CSO rule, instinct model, rationalization tables, micro-skills
 
 ---
 
@@ -45,12 +61,14 @@ I turn complex data into strategic insights — blending business analytics, AI 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![SKILL.md](https://img.shields.io/badge/SKILL.md_Authoring-412991?style=flat-square)
 
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
@@ -78,17 +96,18 @@ I turn complex data into strategic insights — blending business analytics, AI 
 
 | Project | Description |
 |---------|-------------|
-| 🏢 **[G2Ocean](https://github.com/akijain2000/G2Ocean)** | Market intelligence dashboard — shipping data, fleet monitoring, competitor analysis |
-| 🤖 **Rova** | AI tenant assistant for property management — LLM prompts, MCP tools, benchmarking (private) |
+| **[Skill Factory](https://github.com/akijain2000/skill-factory)** | LLM knowledge base + 10-module course for AI agent skill authoring. 30+ wiki articles from 18 repos. |
+| **[G2Ocean](https://github.com/akijain2000/G2Ocean)** | Market intelligence dashboard — shipping data, fleet monitoring, competitor analysis |
+| **Rova** | AI tenant assistant for property management — LLM prompts, MCP tools, benchmarking (private) |
 
 ---
 
 ### Current Focus
 
 ```
-🏗️  Building AI assistants for real estate (LLM + MCP + Supabase)
-📊  User research & behavioral analytics at Opera
-🧠  Exploring agentic AI workflows
+Building AI agents and skill systems (LLM + MCP + SKILL.md)
+User research & behavioral analytics at Opera
+Exploring agentic AI workflows and knowledge base patterns
 ```
 
 <div align="center">
